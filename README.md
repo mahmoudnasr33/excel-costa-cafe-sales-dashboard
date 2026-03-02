@@ -2,3 +2,6 @@
 
 ## Project Objective
 To build an interactive Excel dashboard analyzing Costa Cafe sales performance, customer behavior, and operational trends.
+
+## Dataset Used
+- [Download Dataset](https://github.com/mahmoudnasr33/excel-costa-cafe-sales-dashboard/blob/main/Dataset.csv)
