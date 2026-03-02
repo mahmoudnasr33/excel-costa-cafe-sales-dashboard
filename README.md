@@ -5,3 +5,12 @@ To build an interactive Excel dashboard analyzing Costa Cafe sales performance, 
 
 ## Dataset Used
 - [Download Dataset](https://github.com/mahmoudnasr33/excel-costa-cafe-sales-dashboard/blob/main/Dataset.csv)
+
+## Questions (KPIs)
+
+- What are the total sales and total orders?
+- Which coffee items are the most ordered?
+- How do orders vary by month?
+- Which days generate the highest orders?
+- What is the most used payment method?
+- Which shift (Morning / Evening / Night) performs best?
