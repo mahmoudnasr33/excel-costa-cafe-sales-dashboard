@@ -1,2 +1,4 @@
-# excel-costa-cafe-sales-dashboard
-Interactive Excel dashboard analyzing Costa Cafe sales performance, customer behavior, and operational trends.
+# Costa Cafe Sales Dashboard (Interactive Dashboard using MS Excel)
+
+## Project Objective
+To build an interactive Excel dashboard analyzing Costa Cafe sales performance, customer behavior, and operational trends.
