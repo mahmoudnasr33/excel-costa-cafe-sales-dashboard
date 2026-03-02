@@ -14,3 +14,6 @@ To build an interactive Excel dashboard analyzing Costa Cafe sales performance, 
 - Which days generate the highest orders?
 - What is the most used payment method?
 - Which shift (Morning / Evening / Night) performs best?
+
+## Dashboard Interaction
+- [View Dashboard](https://github.com/mahmoudnasr33/excel-costa-cafe-sales-dashboard/blob/main/Dashboard.png)
